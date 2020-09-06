@@ -1,6 +1,6 @@
 // test
 var adhi;
 
-adhi = "adhi waluyo";
+adhi = "adhi";
 
 console.log(adhi);
